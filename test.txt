@@ -1,2 +1,3 @@
+Hi,
 Testing git 
 I am just testing the git projects. 
