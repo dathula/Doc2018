@@ -1,2 +1,2 @@
 Hi,
-I am just testing the my git folder.
+I am just testing my git folder.
